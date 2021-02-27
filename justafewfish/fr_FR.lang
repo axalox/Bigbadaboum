@@ -1,4 +1,4 @@
-itemGroup.jaff=Just a Few Fish
+sitemGroup.jaff=Just a Few Fish
 
 tile.tank.name=Fish Tank
 
@@ -9,19 +9,19 @@ item.iron_fishing_rod.name=Iron Fishing Rod
 item.golden_fishing_rod.name=Gold Fishing Rod
 item.diamond_fishing_rod.name=Diamond Fishing Rod
 
-item.fish_bucket_cod.name=Bucket with Cod*
-item.fish_bucket_salmon.name=Bucket with Salmon*
-item.fish_bucket_clownfish.name=Bucket with Clownfish*
-item.fish_bucket_pufferfish.name=Bucket with Pufferfish*
+item.fish_bucket_cod.name=Morue dans un seau
+item.fish_bucket_salmon.name=Saumon dans un seau
+item.fish_bucket_clownfish.name=Poisson clown dans un seau
+item.fish_bucket_pufferfish.name=Poisson globe dans un seau
 
 bait.seeds.name=Seeds
 bait.worms.name=Worms
 
-entity.cod.name=Cod*
-entity.salmon.name=Salmon*
-entity.clownfish.name=Clownfish*
-entity.pufferfish.name=Pufferfish*
-entity.iron_fish_hook.name=Iron Fish Hook*
+entity.cod.name=Morue
+entity.salmon.name=Saumon
+entity.clownfish.name=Poisson clown
+entity.pufferfish.name=Poisson globe
+entity.iron_fish_hook.name=Hameçon en fer
 
 rod.info.bait=Bait: %1$s of %2$s
 
